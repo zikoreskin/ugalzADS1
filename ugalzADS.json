@@ -1,0 +1,589 @@
+{
+    "config" : [
+        {
+            "int_interval" : 3,
+            "activate_ads" : "true",
+            "activate_steps" : "true",
+            "activate_step_email" : "false",
+            "one_signal" : "d017388c-1027-4900-a0a5-f5cc29ffc6d5",
+            "network" : "fan",
+
+            "max_ban" : "1a593bb60c856000",
+            "max_native" : "d7829ead92ff2000",
+            "max_int" : "ef057486fa457000",
+
+            "fan_ban": "900697680953151_90000254231000",
+            "fan_native": "900697680953151_9020639200000",
+            "fan_int": "900697680953151_900697000000",
+
+            "main_ico": "https://seeklogo.com/images/S/stumble-guys-logo-E3E4BE536E-seeklogo.com.png",
+            
+            "activate_update_app": "false",
+            "update_link": "https://play.google.com/store/apps/details?id=com.hyperbeard.catopia"
+        }
+    ],
+
+    "quizquestions" : [
+        {
+            "questions" :
+            [
+                { "question" : "q1" },
+                { "question" : "q2" },
+                { "question" : "q3" }
+            ],
+            "answers" :
+            [
+                { "answer" : "a1" },
+                { "answer" : "a2" },
+                { "answer" : "a3" }
+            ],
+            "options" :
+            [
+                { "option" : "a1" }, { "option" : "ax" }, { "option" : "ac" }, { "option" : "ad" },
+                { "option" : "iu" }, { "option" : "a2" }, { "option" : "po" }, { "option" : "gh" },
+                { "option" : "kp" }, { "option" : "lk" }, { "option" : "km" }, { "option" : "a3" }
+            ]
+        }
+    ],
+
+    "quizimages" : [
+        {
+            "images" :
+            [
+                { "image" : "https://cdn.akamai.steamstatic.com/steam/apps/1677740/ss_39dd63c1ac25fe267021845e5374da17c9455393.1920x1080.jpg?t=1650527635" },
+                { "image" : "https://c.tenor.com/SBj5aYuNpAUAAAAC/arunraj-stumble-guys.gif" },
+                { "image" : "https://cdn.cloudflare.steamstatic.com/steam/apps/1677740/ss_2a10d8f0b09d3ef56538e254c8ad2a783b30f39a.1920x1080.jpg?t=1650527635" },
+                { "image" : "https://c.tenor.com/u9exTGy3NcgAAAAC/stumble-guys-honey-drop.gif" },
+                { "image" : "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/08/02/1177498885.png" }
+            ],
+            "answers" :
+            [
+                { "answer" : "true" },
+                { "answer" : "true" },
+                { "answer" : "true" },
+                { "answer" : "true" },
+                { "answer" : "true" }
+            ],
+            "options" :
+            [
+                { "option" : "true" }, { "option" : "true" }, { "option" : "true" }, { "option" : "true" },
+                { "option" : "true" }, { "option" : "true" }, { "option" : "true" }, { "option" : "true" },
+                { "option" : "true" }, { "option" : "true" }, { "option" : "true" }, { "option" : "true" },
+                { "option" : "true" }, { "option" : "true" }, { "option" : "true" }, { "option" : "true" },
+                { "option" : "true" }, { "option" : "true" }, { "option" : "true" }, { "option" : "true" }
+            ]
+        }
+    ],
+    
+    "menu" : [
+        {
+            "active" : "true",
+            "active_reward" : "false",
+            "name" : "Guide Tips",
+            "ico" : "",
+            "bg" : "#FB923C"
+        },{
+            "active" : "true",
+            "active_reward" : "true",
+            "name" : "spinner",
+            "ico" : "https://9asso.github.io/published/imgs/btspin.png",
+            "bg" : "#ffffff"
+        },{
+            "active" : "true",
+            "active_reward" : "false",
+            "name" : "puzzle",
+            "ico" : "https://9asso.github.io/published/imgs/btpuzzle.png",
+            "bg" : "#ffffff"
+        },{
+            "active" : "true",
+            "active_reward" : "false",
+            "name" : "scratch",
+            "ico" : "https://9asso.github.io/published/imgs/btscratch.png",
+            "bg" : "#ffffff"
+        },{
+            "active" : "true",
+            "active_reward" : "false",
+            "name" : "questions",
+            "ico" : "https://9asso.github.io/published/imgs/btquiz.png",
+            "bg" : "#ffffff"
+        },{
+            "active" : "true",
+            "active_reward" : "true",
+            "name" : "quiz",
+            "ico" : "https://9asso.github.io/published/imgs/btimgs.png",
+            "bg" : "#ffffff"
+        },{
+            "active" : "true",
+            "active_reward" : "false",
+            "name" : "more",
+            "ico" : "https://9asso.github.io/published/imgs/btmore.png",
+            "bg" : "#ffffff"
+        },{
+            "active" : "false",
+            "active_reward" : "true",
+            "name" : "wallpapers",
+            "ico" : "https://9asso.github.io/published/imgs/btwalls.png",
+            "bg" : "#ffffff"
+        },{
+            "active" : "true",
+            "active_reward" : "true",
+            "name" : "games",
+            "ico" : "https://9asso.github.io/published/imgs/btgames.png",
+            "bg" : "#ffffff"
+        }
+    ],
+    
+    "more" : [
+        {
+            "name" : "Gems Diamond for Stumble Guyz",
+            "ico" : "https://play-lh.googleusercontent.com/wT8PLzvFsr5-GM1MzxLYQreo2-N5HOcRQEe4hamjMJOqtTvVQqOOh6SN909c375VCfY=w480-h960-rw",
+            "link" : "https://play.google.com/store/apps/details?id=ks.apps.gemsimada"
+        },{
+            "name" : "Yes or No?! - Food Pranks",
+            "ico" : "https://play-lh.googleusercontent.com/XLwHnPui_jBfewef6DpexmRC3LY_b3Y2GzrdCgTka_6tnTg35JcwHOVr3hI6uw0FrSsy=s480-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.tgame.yesorno"
+        },{
+            "name" : "The Real Juggle",
+            "ico" : "https://play-lh.googleusercontent.com/lnKQs0cMeknooLjxsBqQ2zrBSeIWxGOd4SOHiSnUdS1zCuoQtxa6dlhE8RUzgiUteJjI=s480-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.SPSoftwareProductions.TheRealJuggle"
+        },{
+            "name" : "Slap Kings",
+            "ico" : "https://play-lh.googleusercontent.com/y-jGBQYt9_MwlJJnoCODI-n1rmo138BkMCZShWOQtczg53QkwYmTtyfkcSqUwadIpFFb=s480-rw",
+            "link" : "https://play.google.com/store/apps/details?id=mobi.gameguru.slapkings"
+        },{
+            "name" : "Hit Master 3D - Knife Assassin",
+            "ico" : "https://play-lh.googleusercontent.com/xcVlvz8Dq4Jcbzr4TxEfYGAcxWNS4twrPxN5a3aVYLiGGPoxfQEkDPOWR9Dy1IZrK2E=s480-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.hit.master"
+        },{
+            "name" : "Do Not Fall .io",
+            "ico" : "https://play-lh.googleusercontent.com/as4pnoi2-Mj68ceO5HABH8ZwnbSqABGzYIh1wAZQwGBheghHBcTu5wbaZKpGY8kFKEU=s480-rw",
+            "link" : "https://play.google.com/store/apps/details?id=fall.race.io"
+        },{
+            "name" : "Tall Man Run",
+            "ico" : "https://play-lh.googleusercontent.com/NO7rNNKCJa__oDge9GNePHDEq3MKauNc9AaUe3Awx3qsswE_zOVTMgDgccouH9Wg_g=w480-h960-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.VectorUpGames.TallManRun"
+        }
+
+    ],
+    
+    "games" : [
+        {
+            "name" : "Stumble Guys. The Game",
+            "ico" : "https://html5-games.io/data/image/stumble-guys.jpg",
+            "link" : "https://app-171648.games-storage.yandex.net/171648/8m7rqwjtd4mauzwhqcwk3bjf7rd2ovi4/index.html",
+            "cat" : "Overall",
+            "orientation" : "0"
+        },{
+            "name" : "Cat Condo",
+            "ico" : "https://play-lh.googleusercontent.com/QI8tpCQiWh_6TLwOCRW-D3v2g20w-W0DBW6SjS3n-Npcf1ypOgO8nypYFFNAkKiQTA=s150-rw",
+            "link" : "https://games.cdn.famobi.com/html5games/m/moto-x3m/v100/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=442157bb-0a48-4e9b-9fa6-e1503f16e8e3&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=671&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+            "cat" : "Strategies",
+            "orientation" : "0"
+        },{
+            "name" : "Power Up: Superhero Challenge",
+            "ico" : "https://play-lh.googleusercontent.com/4aznLu_MRegrmlOd1mzHLH2fnkj6t0QCYYzneNOUZAQlA423xk5twIdymBk1I19EYg=s150-rw",
+            "link" : "https://games.cdn.famobi.com/html5games/f/fuzzies/v130/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=664712c7-d01a-494a-bddf-4ea78f48e5bb&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=669&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+            "cat" : "Soccer",
+            "orientation" : "1"
+        },{
+            "name" : "Stacky Bird: Fun Egg Dash Game",
+            "ico" : "https://play-lh.googleusercontent.com/FmeNJWbIu9l_El3Dzkh3YBE-R8YC6HzxgUt1c47AV0q3qXTqLVgKSeA9phhbLG1LKNg=s150-rw",
+            "link" : "https://games.cdn.famobi.com/html5games/s/slam-dunk-basketball/v090/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=850989c0-0838-453d-95b6-f18d7922f21d&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=674&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+            "cat" : "Arcade",
+            "orientation" : "1"
+        },{
+            "name" : "Cat Escape",
+            "ico" : "https://play-lh.googleusercontent.com/If5wCREVhk1ibdZd8g67oShl_Vnm0qyx3OayiBl7Sm3UGr_74_0ZrWEmLXo5XesrGw=s150-rw",
+            "link" : "https://games.cdn.famobi.com/html5games/b/bubble-tower-3d/v050/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=1385d98a-b5f2-4339-bce7-b99a8dd2e8b0&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=667&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+            "cat" : "Puzzles",
+            "orientation" : "0"
+        },{
+            "name" : "Cat Condo",
+            "ico" : "https://play-lh.googleusercontent.com/MxjwN1rZMFqrM5VJbJVJHOdOIKcAXMgbFJZG1RmD1TgWTouOZ7tqwo30zonDulgqiA6y=s300-rw",
+            "link" : "https://games.cdn.famobi.com/html5games/m/moto-x3m/v100/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=442157bb-0a48-4e9b-9fa6-e1503f16e8e3&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=671&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+            "cat" : "Hypercasual",
+            "orientation" : "1"
+        },{
+            "name" : "Power Up: Superhero Challenge",
+            "ico" : "https://play-lh.googleusercontent.com/5LIMaa7WTNy34bzdFhBETa2MRj7mFJZWb8gCn_uyxQkUvFx_uOFCeQjcK16c6WpBA3E=s300-rw",
+            "link" : "https://games.cdn.famobi.com/html5games/m/moto-x3m/v100/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=442157bb-0a48-4e9b-9fa6-e1503f16e8e3&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=671&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+            "cat" : "Arcade",
+            "orientation" : "0"
+        }
+
+    ],
+    
+    "scratch" : [
+        {
+            "img" : "https://media.istockphoto.com/vectors/scratch-and-win-letters-scratched-effect-background-and-stars-place-vector-id985966248?k=20&m=985966248&s=612x612&w=0&h=mQlnhRg3AvHwV_lKVS-YDuErpY35LeGie2VKezaSX0Q="
+        },{
+            "img" : "https://thumbs.dreamstime.com/b/scratch-win-letters-scratched-effect-background-stars-scratch-win-letters-scratched-effect-background-stars-ribbon-120022586.jpg"
+        },{
+            "img" : "https://cdn.appsmav.com/win/upload/img/242/42/6242_scratch_1559542007.png"
+        },{
+            "img" : "https://play-lh.googleusercontent.com/wsm1brgFhjT-1_czu_JpoUVnthTafMWVCidTnrYwsR6djLUwggqIGDmlwhrnbRa0eTQ"
+        },{
+            "img" : "https://play-lh.googleusercontent.com/H4ql9I6x-3x_AIM6HUPyzX7Wqral-yEazluTt_-rIzn5_U8NIYOh8QsjzHd-75S6-ks"
+        }
+    ],
+
+    "wallpapers" : [
+        {
+            "name" : "",
+            "img" : "https://static.gameloop.com/syzs_cms/202205/5035ba8cb44bef82574246a7068b72f2.jpeg?imageMogr2/thumbnail/412x675/format/webp"
+        },
+        {
+            "name" : "",
+            "img" : "https://www.xtrafondos.com/wallpapers/vertical/temporada-2-de-fall-guys-6435.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://i.pinimg.com/originals/79/e9/9f/79e99f9248326b26915b30efd53f1a4d.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://wallpapercave.com/wp/wp10366312.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://i.pinimg.com/originals/a9/ef/55/a9ef55219afb7bc0bfd601e4716dfb26.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://pbs.twimg.com/media/EnQ9Y0rW8AE7poC.jpg:large"
+        },
+        {
+            "name" : "",
+            "img" : "https://mfiles.alphacoders.com/961/thumb-1920-961986.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://indwallpapers.com/wp-content/uploads/2021/02/Wallpaper-Fall-Guys.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://www.xtrafondos.com/wallpapers/vertical/fall-guys-temporada-3-ultimate-knockout-2020-6801.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://www.xtrafondos.com/wallpapers/vertical/fall-guys-temporada-3-2020-6809.jpg"
+        }
+    ],
+    
+    "chaptera" : [
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "Set Your Controls Before You Begin in Stumble Guys",
+            "img1" : "https://lh4.googleusercontent.com/2_I6_ORRuf_emE1-d9fVKEvxe7KdbOBhDjRkgupENpG9aK47lZhEK0wyaxOVXvjfLxibA2CnmL9jJZYNjWQ4z7tYdV_95SsASzn7ZOWw29_vRzKv8zYOvZQGab_T41fr91EmcHyvSpkny2Q0Ng",
+            "img2" : "",
+            "part1" : "The beginning is the best turning point in the Stumble Guys game. Here you can use a variety of skills and also weapons throughout the battles. But first of all, you need to know that you can use different powerful tools to empower yourself to dust the opponents. From those various tools, you can enhance your power by using your mouse and keyboard, and you may construct easy control schemes.\nBut before going for those tools, you have to set your controls in the Stumble Guys game. Here, you can follow the steps as one of the Stumble Guys best tips.\n\r\nGo to the setting menu on the screen.\n\r\nVisit the section of the control \n\r\nAdjust your bindings without having to stop in the middle of a match.\n\r\nBesides the game's set controls, you can just go for the best android emulator to set some of your friendliest keys to all these actions by the Keyboard Mapping feature. Through this, it makes it easier for a player to tap and move with the game efficiently as it sets the keys that are friendliest for the player other than the usual key bindings from the game.",
+            "part2" : ""
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "Learn How to Use the Physics of Your Character to Your Advantage",
+            "img1" : "https://lh3.googleusercontent.com/lbJmSxiioRLIiTFKYq9E0M-WxgRZUBLP3FPNlMdAunGCQevDpjl-sXKwyCGHSBBl8qYchHHser5ffcQq0qvThaGMyrM0Jakko4_5GqPdI7-Hc1JCPGvN8fjMWyOWWO6A7DtE-fpH9yJWT3Wmzg",
+            "part1" : "The most exciting part of this Stumble Guys best tips guide is that you can do the battles along with others, all of which consist of physics in the gaming levels. Here, you need to take advantage of others' weaknesses to defeat them and end the game.",
+            "img2" : "",
+            "part2" : "In this manner, you can use your body to block the paths and lower other gamers' speeds, and you can run into someone else and distract their attention and speed up yourself in the game and do some violent actions to defeat them. So please make use of the physics of your character as we suppose in this Stumble Guys best tips guide.\nYou have to remember that you must not only accomplish that goal in your qualification matches to win at Stumble Guys, but you must also prevent others from doing so. Utilizing the game's mechanics to your advantage allows you to push others down and may help you achieve the objective well ahead of the competition. "
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "Use the Challenges to Your Advantage",
+            "img1" : "https://lh4.googleusercontent.com/I6P_O0G1uPXqjwfdz9Vx59p5MUPJPnXc8-oFy3Kysk_3Fhc__cPyiDNxp75jKQ-Dp6H5p0dlpYSf_CXWsGyqSQyqA5emKawnun_yUaW4bkjWzDMHLK-yjRQFldXrzizNLCoejKt9tfEW7Aq8pA",
+            "part1" : "As a tactical gamer, you can go on basic two methods to change around in the battles. Either you can slide or run through the battles and make the win for you. But in this Stumble Guys best tips and tricks guide, we tell you that there is one more way to make advantages while you are playing.\nYou can use your game's challenges and boost yourself to defeat the opponents. Thus, you must avoid spinning obstacles in several of the mini-games in this Stumble Guys game because crashing into them will send you spiraling away in any direction.",
+            "img2" : "",
+            "part2" : "Here, if you are ready to learn from your mistakes, you can probably take a big step and go forward more rapidly than other components in the game."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "It is not Always about Being First",
+            "img1" : "https://lh4.googleusercontent.com/HywgyaqpaK5mF0zMoG28y33tAaP1Q0wlZxvvwGeNarjSXAwE1Sit1SQwRZ72y2z04bcdZ-78Ase9-waVLL_okhf8vwG2ztVn2uXDXG521vqLwOmG9EneC7JyTnnRGYCx6phD2-6naL1cqjEwcg",
+            "part1" : "There are various mini gaming themes in the Stumble Guys game. Because each of these mini-games is different and expects more than the victory in the gaming levels, at some levels, you just need to be safe and finish the task no matter what your position is there.",
+            "img2" : "",
+            "part2" : "When it comes to the Bombardment mini-game, we recommend you escape falling into the ocean by dodging bombs and explosions fired by a pirate boat at the platform where all players are standing in this Stumble Guys best tips and tricks guide. You can also push other components and make them fall. Also, you can dodge a watery doom by jumping, sliding, or running.\nIn some situations, the players try to be still and hide from the bomb attacks. So you can make it a better chance to push other players and make your space. But try not to fall like others. Because at another level, your success is based on others' losses in the battles. "
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "Rather than Waiting, Leap",
+            "img1" : "https://lh6.googleusercontent.com/0Nt8GyczdNOnV1mekw0e0QotIJ0FuS4V1Q6M-6KgwO5nbzifK8fFkq_pPFNtkE3_EGPwQKGw5es_sQmLSljAIT-K5qWsI0GgTcBv3gLtmLJlDSZqQSw4UxcSbgvgyCwj-l9SuzTqXJ4zBgw2JQ",
+            "part1" : "Many of the obstacles of the Stumble Guys try to drag you down. But while you mature in the game, you will realize that there is a sure way those obstacles arise in the games.\nSo get used to the particular obstacles, patterns, and styles that create a mess for you. That will lead you to forecast the obstacles and face them dedicatedly. Also, you can understand the best time to jump and go forward in the game.",
+            "img2" : "",
+            "part2" : "In this Stumble Guys best tips and tricks guide, we suggest you do not wait and jump over these predetermined obstacles and make your path clear. This is one of the best Stumble Guys tips that will help you win most of your games. You will be blazing past obstacles like an expert while other components wait for it to be safe to cross in the games."
+        }
+    ],
+    
+    "chapterb" : [
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "Set Your Controls Before You Begin in Stumble Guys",
+            "img1" : "https://lh4.googleusercontent.com/2_I6_ORRuf_emE1-d9fVKEvxe7KdbOBhDjRkgupENpG9aK47lZhEK0wyaxOVXvjfLxibA2CnmL9jJZYNjWQ4z7tYdV_95SsASzn7ZOWw29_vRzKv8zYOvZQGab_T41fr91EmcHyvSpkny2Q0Ng",
+            "img2" : "",
+            "part1" : "The beginning is the best turning point in the Stumble Guys game. Here you can use a variety of skills and also weapons throughout the battles. But first of all, you need to know that you can use different powerful tools to empower yourself to dust the opponents. From those various tools, you can enhance your power by using your mouse and keyboard, and you may construct easy control schemes.\nBut before going for those tools, you have to set your controls in the Stumble Guys game. Here, you can follow the steps as one of the Stumble Guys best tips.\n\r\nGo to the setting menu on the screen.\n\r\nVisit the section of the control \n\r\nAdjust your bindings without having to stop in the middle of a match.\n\r\nBesides the game's set controls, you can just go for the best android emulator to set some of your friendliest keys to all these actions by the Keyboard Mapping feature. Through this, it makes it easier for a player to tap and move with the game efficiently as it sets the keys that are friendliest for the player other than the usual key bindings from the game.",
+            "part2" : ""
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "Learn How to Use the Physics of Your Character to Your Advantage",
+            "img1" : "https://lh3.googleusercontent.com/lbJmSxiioRLIiTFKYq9E0M-WxgRZUBLP3FPNlMdAunGCQevDpjl-sXKwyCGHSBBl8qYchHHser5ffcQq0qvThaGMyrM0Jakko4_5GqPdI7-Hc1JCPGvN8fjMWyOWWO6A7DtE-fpH9yJWT3Wmzg",
+            "part1" : "The most exciting part of this Stumble Guys best tips guide is that you can do the battles along with others, all of which consist of physics in the gaming levels. Here, you need to take advantage of others' weaknesses to defeat them and end the game.",
+            "img2" : "",
+            "part2" : "In this manner, you can use your body to block the paths and lower other gamers' speeds, and you can run into someone else and distract their attention and speed up yourself in the game and do some violent actions to defeat them. So please make use of the physics of your character as we suppose in this Stumble Guys best tips guide.\nYou have to remember that you must not only accomplish that goal in your qualification matches to win at Stumble Guys, but you must also prevent others from doing so. Utilizing the game's mechanics to your advantage allows you to push others down and may help you achieve the objective well ahead of the competition. "
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "Use the Challenges to Your Advantage",
+            "img1" : "https://lh4.googleusercontent.com/I6P_O0G1uPXqjwfdz9Vx59p5MUPJPnXc8-oFy3Kysk_3Fhc__cPyiDNxp75jKQ-Dp6H5p0dlpYSf_CXWsGyqSQyqA5emKawnun_yUaW4bkjWzDMHLK-yjRQFldXrzizNLCoejKt9tfEW7Aq8pA",
+            "part1" : "As a tactical gamer, you can go on basic two methods to change around in the battles. Either you can slide or run through the battles and make the win for you. But in this Stumble Guys best tips and tricks guide, we tell you that there is one more way to make advantages while you are playing.\nYou can use your game's challenges and boost yourself to defeat the opponents. Thus, you must avoid spinning obstacles in several of the mini-games in this Stumble Guys game because crashing into them will send you spiraling away in any direction.",
+            "img2" : "",
+            "part2" : "Here, if you are ready to learn from your mistakes, you can probably take a big step and go forward more rapidly than other components in the game."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "It is not Always about Being First",
+            "img1" : "https://lh4.googleusercontent.com/HywgyaqpaK5mF0zMoG28y33tAaP1Q0wlZxvvwGeNarjSXAwE1Sit1SQwRZ72y2z04bcdZ-78Ase9-waVLL_okhf8vwG2ztVn2uXDXG521vqLwOmG9EneC7JyTnnRGYCx6phD2-6naL1cqjEwcg",
+            "part1" : "There are various mini gaming themes in the Stumble Guys game. Because each of these mini-games is different and expects more than the victory in the gaming levels, at some levels, you just need to be safe and finish the task no matter what your position is there.",
+            "img2" : "",
+            "part2" : "When it comes to the Bombardment mini-game, we recommend you escape falling into the ocean by dodging bombs and explosions fired by a pirate boat at the platform where all players are standing in this Stumble Guys best tips and tricks guide. You can also push other components and make them fall. Also, you can dodge a watery doom by jumping, sliding, or running.\nIn some situations, the players try to be still and hide from the bomb attacks. So you can make it a better chance to push other players and make your space. But try not to fall like others. Because at another level, your success is based on others' losses in the battles. "
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "Rather than Waiting, Leap",
+            "img1" : "https://lh6.googleusercontent.com/0Nt8GyczdNOnV1mekw0e0QotIJ0FuS4V1Q6M-6KgwO5nbzifK8fFkq_pPFNtkE3_EGPwQKGw5es_sQmLSljAIT-K5qWsI0GgTcBv3gLtmLJlDSZqQSw4UxcSbgvgyCwj-l9SuzTqXJ4zBgw2JQ",
+            "part1" : "Many of the obstacles of the Stumble Guys try to drag you down. But while you mature in the game, you will realize that there is a sure way those obstacles arise in the games.\nSo get used to the particular obstacles, patterns, and styles that create a mess for you. That will lead you to forecast the obstacles and face them dedicatedly. Also, you can understand the best time to jump and go forward in the game.",
+            "img2" : "",
+            "part2" : "In this Stumble Guys best tips and tricks guide, we suggest you do not wait and jump over these predetermined obstacles and make your path clear. This is one of the best Stumble Guys tips that will help you win most of your games. You will be blazing past obstacles like an expert while other components wait for it to be safe to cross in the games."
+        }
+    ],
+    
+    "chapterc" : [
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "Set Your Controls Before You Begin in Stumble Guys",
+            "img1" : "https://lh4.googleusercontent.com/2_I6_ORRuf_emE1-d9fVKEvxe7KdbOBhDjRkgupENpG9aK47lZhEK0wyaxOVXvjfLxibA2CnmL9jJZYNjWQ4z7tYdV_95SsASzn7ZOWw29_vRzKv8zYOvZQGab_T41fr91EmcHyvSpkny2Q0Ng",
+            "img2" : "",
+            "part1" : "The beginning is the best turning point in the Stumble Guys game. Here you can use a variety of skills and also weapons throughout the battles. But first of all, you need to know that you can use different powerful tools to empower yourself to dust the opponents. From those various tools, you can enhance your power by using your mouse and keyboard, and you may construct easy control schemes.\nBut before going for those tools, you have to set your controls in the Stumble Guys game. Here, you can follow the steps as one of the Stumble Guys best tips.\n\r\nGo to the setting menu on the screen.\n\r\nVisit the section of the control \n\r\nAdjust your bindings without having to stop in the middle of a match.\n\r\nBesides the game's set controls, you can just go for the best android emulator to set some of your friendliest keys to all these actions by the Keyboard Mapping feature. Through this, it makes it easier for a player to tap and move with the game efficiently as it sets the keys that are friendliest for the player other than the usual key bindings from the game.",
+            "part2" : ""
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "Learn How to Use the Physics of Your Character to Your Advantage",
+            "img1" : "https://lh3.googleusercontent.com/lbJmSxiioRLIiTFKYq9E0M-WxgRZUBLP3FPNlMdAunGCQevDpjl-sXKwyCGHSBBl8qYchHHser5ffcQq0qvThaGMyrM0Jakko4_5GqPdI7-Hc1JCPGvN8fjMWyOWWO6A7DtE-fpH9yJWT3Wmzg",
+            "part1" : "The most exciting part of this Stumble Guys best tips guide is that you can do the battles along with others, all of which consist of physics in the gaming levels. Here, you need to take advantage of others' weaknesses to defeat them and end the game.",
+            "img2" : "",
+            "part2" : "In this manner, you can use your body to block the paths and lower other gamers' speeds, and you can run into someone else and distract their attention and speed up yourself in the game and do some violent actions to defeat them. So please make use of the physics of your character as we suppose in this Stumble Guys best tips guide.\nYou have to remember that you must not only accomplish that goal in your qualification matches to win at Stumble Guys, but you must also prevent others from doing so. Utilizing the game's mechanics to your advantage allows you to push others down and may help you achieve the objective well ahead of the competition. "
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "Use the Challenges to Your Advantage",
+            "img1" : "https://lh4.googleusercontent.com/I6P_O0G1uPXqjwfdz9Vx59p5MUPJPnXc8-oFy3Kysk_3Fhc__cPyiDNxp75jKQ-Dp6H5p0dlpYSf_CXWsGyqSQyqA5emKawnun_yUaW4bkjWzDMHLK-yjRQFldXrzizNLCoejKt9tfEW7Aq8pA",
+            "part1" : "As a tactical gamer, you can go on basic two methods to change around in the battles. Either you can slide or run through the battles and make the win for you. But in this Stumble Guys best tips and tricks guide, we tell you that there is one more way to make advantages while you are playing.\nYou can use your game's challenges and boost yourself to defeat the opponents. Thus, you must avoid spinning obstacles in several of the mini-games in this Stumble Guys game because crashing into them will send you spiraling away in any direction.",
+            "img2" : "",
+            "part2" : "Here, if you are ready to learn from your mistakes, you can probably take a big step and go forward more rapidly than other components in the game."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "It is not Always about Being First",
+            "img1" : "https://lh4.googleusercontent.com/HywgyaqpaK5mF0zMoG28y33tAaP1Q0wlZxvvwGeNarjSXAwE1Sit1SQwRZ72y2z04bcdZ-78Ase9-waVLL_okhf8vwG2ztVn2uXDXG521vqLwOmG9EneC7JyTnnRGYCx6phD2-6naL1cqjEwcg",
+            "part1" : "There are various mini gaming themes in the Stumble Guys game. Because each of these mini-games is different and expects more than the victory in the gaming levels, at some levels, you just need to be safe and finish the task no matter what your position is there.",
+            "img2" : "",
+            "part2" : "When it comes to the Bombardment mini-game, we recommend you escape falling into the ocean by dodging bombs and explosions fired by a pirate boat at the platform where all players are standing in this Stumble Guys best tips and tricks guide. You can also push other components and make them fall. Also, you can dodge a watery doom by jumping, sliding, or running.\nIn some situations, the players try to be still and hide from the bomb attacks. So you can make it a better chance to push other players and make your space. But try not to fall like others. Because at another level, your success is based on others' losses in the battles. "
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "Rather than Waiting, Leap",
+            "img1" : "https://lh6.googleusercontent.com/0Nt8GyczdNOnV1mekw0e0QotIJ0FuS4V1Q6M-6KgwO5nbzifK8fFkq_pPFNtkE3_EGPwQKGw5es_sQmLSljAIT-K5qWsI0GgTcBv3gLtmLJlDSZqQSw4UxcSbgvgyCwj-l9SuzTqXJ4zBgw2JQ",
+            "part1" : "Many of the obstacles of the Stumble Guys try to drag you down. But while you mature in the game, you will realize that there is a sure way those obstacles arise in the games.\nSo get used to the particular obstacles, patterns, and styles that create a mess for you. That will lead you to forecast the obstacles and face them dedicatedly. Also, you can understand the best time to jump and go forward in the game.",
+            "img2" : "",
+            "part2" : "In this Stumble Guys best tips and tricks guide, we suggest you do not wait and jump over these predetermined obstacles and make your path clear. This is one of the best Stumble Guys tips that will help you win most of your games. You will be blazing past obstacles like an expert while other components wait for it to be safe to cross in the games."
+        }
+    ],
+    
+    "chapterd" : [
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "Set Your Controls Before You Begin in Stumble Guys",
+            "img1" : "https://lh4.googleusercontent.com/2_I6_ORRuf_emE1-d9fVKEvxe7KdbOBhDjRkgupENpG9aK47lZhEK0wyaxOVXvjfLxibA2CnmL9jJZYNjWQ4z7tYdV_95SsASzn7ZOWw29_vRzKv8zYOvZQGab_T41fr91EmcHyvSpkny2Q0Ng",
+            "img2" : "",
+            "part1" : "The beginning is the best turning point in the Stumble Guys game. Here you can use a variety of skills and also weapons throughout the battles. But first of all, you need to know that you can use different powerful tools to empower yourself to dust the opponents. From those various tools, you can enhance your power by using your mouse and keyboard, and you may construct easy control schemes.\nBut before going for those tools, you have to set your controls in the Stumble Guys game. Here, you can follow the steps as one of the Stumble Guys best tips.\n\r\nGo to the setting menu on the screen.\n\r\nVisit the section of the control \n\r\nAdjust your bindings without having to stop in the middle of a match.\n\r\nBesides the game's set controls, you can just go for the best android emulator to set some of your friendliest keys to all these actions by the Keyboard Mapping feature. Through this, it makes it easier for a player to tap and move with the game efficiently as it sets the keys that are friendliest for the player other than the usual key bindings from the game.",
+            "part2" : ""
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "Learn How to Use the Physics of Your Character to Your Advantage",
+            "img1" : "https://lh3.googleusercontent.com/lbJmSxiioRLIiTFKYq9E0M-WxgRZUBLP3FPNlMdAunGCQevDpjl-sXKwyCGHSBBl8qYchHHser5ffcQq0qvThaGMyrM0Jakko4_5GqPdI7-Hc1JCPGvN8fjMWyOWWO6A7DtE-fpH9yJWT3Wmzg",
+            "part1" : "The most exciting part of this Stumble Guys best tips guide is that you can do the battles along with others, all of which consist of physics in the gaming levels. Here, you need to take advantage of others' weaknesses to defeat them and end the game.",
+            "img2" : "",
+            "part2" : "In this manner, you can use your body to block the paths and lower other gamers' speeds, and you can run into someone else and distract their attention and speed up yourself in the game and do some violent actions to defeat them. So please make use of the physics of your character as we suppose in this Stumble Guys best tips guide.\nYou have to remember that you must not only accomplish that goal in your qualification matches to win at Stumble Guys, but you must also prevent others from doing so. Utilizing the game's mechanics to your advantage allows you to push others down and may help you achieve the objective well ahead of the competition. "
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "Use the Challenges to Your Advantage",
+            "img1" : "https://lh4.googleusercontent.com/I6P_O0G1uPXqjwfdz9Vx59p5MUPJPnXc8-oFy3Kysk_3Fhc__cPyiDNxp75jKQ-Dp6H5p0dlpYSf_CXWsGyqSQyqA5emKawnun_yUaW4bkjWzDMHLK-yjRQFldXrzizNLCoejKt9tfEW7Aq8pA",
+            "part1" : "As a tactical gamer, you can go on basic two methods to change around in the battles. Either you can slide or run through the battles and make the win for you. But in this Stumble Guys best tips and tricks guide, we tell you that there is one more way to make advantages while you are playing.\nYou can use your game's challenges and boost yourself to defeat the opponents. Thus, you must avoid spinning obstacles in several of the mini-games in this Stumble Guys game because crashing into them will send you spiraling away in any direction.",
+            "img2" : "",
+            "part2" : "Here, if you are ready to learn from your mistakes, you can probably take a big step and go forward more rapidly than other components in the game."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "It is not Always about Being First",
+            "img1" : "https://lh4.googleusercontent.com/HywgyaqpaK5mF0zMoG28y33tAaP1Q0wlZxvvwGeNarjSXAwE1Sit1SQwRZ72y2z04bcdZ-78Ase9-waVLL_okhf8vwG2ztVn2uXDXG521vqLwOmG9EneC7JyTnnRGYCx6phD2-6naL1cqjEwcg",
+            "part1" : "There are various mini gaming themes in the Stumble Guys game. Because each of these mini-games is different and expects more than the victory in the gaming levels, at some levels, you just need to be safe and finish the task no matter what your position is there.",
+            "img2" : "",
+            "part2" : "When it comes to the Bombardment mini-game, we recommend you escape falling into the ocean by dodging bombs and explosions fired by a pirate boat at the platform where all players are standing in this Stumble Guys best tips and tricks guide. You can also push other components and make them fall. Also, you can dodge a watery doom by jumping, sliding, or running.\nIn some situations, the players try to be still and hide from the bomb attacks. So you can make it a better chance to push other players and make your space. But try not to fall like others. Because at another level, your success is based on others' losses in the battles. "
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "Rather than Waiting, Leap",
+            "img1" : "https://lh6.googleusercontent.com/0Nt8GyczdNOnV1mekw0e0QotIJ0FuS4V1Q6M-6KgwO5nbzifK8fFkq_pPFNtkE3_EGPwQKGw5es_sQmLSljAIT-K5qWsI0GgTcBv3gLtmLJlDSZqQSw4UxcSbgvgyCwj-l9SuzTqXJ4zBgw2JQ",
+            "part1" : "Many of the obstacles of the Stumble Guys try to drag you down. But while you mature in the game, you will realize that there is a sure way those obstacles arise in the games.\nSo get used to the particular obstacles, patterns, and styles that create a mess for you. That will lead you to forecast the obstacles and face them dedicatedly. Also, you can understand the best time to jump and go forward in the game.",
+            "img2" : "",
+            "part2" : "In this Stumble Guys best tips and tricks guide, we suggest you do not wait and jump over these predetermined obstacles and make your path clear. This is one of the best Stumble Guys tips that will help you win most of your games. You will be blazing past obstacles like an expert while other components wait for it to be safe to cross in the games."
+        }
+    ],
+    
+    "chaptere" : [
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "Set Your Controls Before You Begin in Stumble Guys",
+            "img1" : "https://lh4.googleusercontent.com/2_I6_ORRuf_emE1-d9fVKEvxe7KdbOBhDjRkgupENpG9aK47lZhEK0wyaxOVXvjfLxibA2CnmL9jJZYNjWQ4z7tYdV_95SsASzn7ZOWw29_vRzKv8zYOvZQGab_T41fr91EmcHyvSpkny2Q0Ng",
+            "img2" : "",
+            "part1" : "The beginning is the best turning point in the Stumble Guys game. Here you can use a variety of skills and also weapons throughout the battles. But first of all, you need to know that you can use different powerful tools to empower yourself to dust the opponents. From those various tools, you can enhance your power by using your mouse and keyboard, and you may construct easy control schemes.\nBut before going for those tools, you have to set your controls in the Stumble Guys game. Here, you can follow the steps as one of the Stumble Guys best tips.\n\r\nGo to the setting menu on the screen.\n\r\nVisit the section of the control \n\r\nAdjust your bindings without having to stop in the middle of a match.\n\r\nBesides the game's set controls, you can just go for the best android emulator to set some of your friendliest keys to all these actions by the Keyboard Mapping feature. Through this, it makes it easier for a player to tap and move with the game efficiently as it sets the keys that are friendliest for the player other than the usual key bindings from the game.",
+            "part2" : ""
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "Learn How to Use the Physics of Your Character to Your Advantage",
+            "img1" : "https://lh3.googleusercontent.com/lbJmSxiioRLIiTFKYq9E0M-WxgRZUBLP3FPNlMdAunGCQevDpjl-sXKwyCGHSBBl8qYchHHser5ffcQq0qvThaGMyrM0Jakko4_5GqPdI7-Hc1JCPGvN8fjMWyOWWO6A7DtE-fpH9yJWT3Wmzg",
+            "part1" : "The most exciting part of this Stumble Guys best tips guide is that you can do the battles along with others, all of which consist of physics in the gaming levels. Here, you need to take advantage of others' weaknesses to defeat them and end the game.",
+            "img2" : "",
+            "part2" : "In this manner, you can use your body to block the paths and lower other gamers' speeds, and you can run into someone else and distract their attention and speed up yourself in the game and do some violent actions to defeat them. So please make use of the physics of your character as we suppose in this Stumble Guys best tips guide.\nYou have to remember that you must not only accomplish that goal in your qualification matches to win at Stumble Guys, but you must also prevent others from doing so. Utilizing the game's mechanics to your advantage allows you to push others down and may help you achieve the objective well ahead of the competition. "
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "Use the Challenges to Your Advantage",
+            "img1" : "https://lh4.googleusercontent.com/I6P_O0G1uPXqjwfdz9Vx59p5MUPJPnXc8-oFy3Kysk_3Fhc__cPyiDNxp75jKQ-Dp6H5p0dlpYSf_CXWsGyqSQyqA5emKawnun_yUaW4bkjWzDMHLK-yjRQFldXrzizNLCoejKt9tfEW7Aq8pA",
+            "part1" : "As a tactical gamer, you can go on basic two methods to change around in the battles. Either you can slide or run through the battles and make the win for you. But in this Stumble Guys best tips and tricks guide, we tell you that there is one more way to make advantages while you are playing.\nYou can use your game's challenges and boost yourself to defeat the opponents. Thus, you must avoid spinning obstacles in several of the mini-games in this Stumble Guys game because crashing into them will send you spiraling away in any direction.",
+            "img2" : "",
+            "part2" : "Here, if you are ready to learn from your mistakes, you can probably take a big step and go forward more rapidly than other components in the game."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "It is not Always about Being First",
+            "img1" : "https://lh4.googleusercontent.com/HywgyaqpaK5mF0zMoG28y33tAaP1Q0wlZxvvwGeNarjSXAwE1Sit1SQwRZ72y2z04bcdZ-78Ase9-waVLL_okhf8vwG2ztVn2uXDXG521vqLwOmG9EneC7JyTnnRGYCx6phD2-6naL1cqjEwcg",
+            "part1" : "There are various mini gaming themes in the Stumble Guys game. Because each of these mini-games is different and expects more than the victory in the gaming levels, at some levels, you just need to be safe and finish the task no matter what your position is there.",
+            "img2" : "",
+            "part2" : "When it comes to the Bombardment mini-game, we recommend you escape falling into the ocean by dodging bombs and explosions fired by a pirate boat at the platform where all players are standing in this Stumble Guys best tips and tricks guide. You can also push other components and make them fall. Also, you can dodge a watery doom by jumping, sliding, or running.\nIn some situations, the players try to be still and hide from the bomb attacks. So you can make it a better chance to push other players and make your space. But try not to fall like others. Because at another level, your success is based on others' losses in the battles. "
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "Rather than Waiting, Leap",
+            "img1" : "https://lh6.googleusercontent.com/0Nt8GyczdNOnV1mekw0e0QotIJ0FuS4V1Q6M-6KgwO5nbzifK8fFkq_pPFNtkE3_EGPwQKGw5es_sQmLSljAIT-K5qWsI0GgTcBv3gLtmLJlDSZqQSw4UxcSbgvgyCwj-l9SuzTqXJ4zBgw2JQ",
+            "part1" : "Many of the obstacles of the Stumble Guys try to drag you down. But while you mature in the game, you will realize that there is a sure way those obstacles arise in the games.\nSo get used to the particular obstacles, patterns, and styles that create a mess for you. That will lead you to forecast the obstacles and face them dedicatedly. Also, you can understand the best time to jump and go forward in the game.",
+            "img2" : "",
+            "part2" : "In this Stumble Guys best tips and tricks guide, we suggest you do not wait and jump over these predetermined obstacles and make your path clear. This is one of the best Stumble Guys tips that will help you win most of your games. You will be blazing past obstacles like an expert while other components wait for it to be safe to cross in the games."
+        }
+    ],
+
+    "moret" : [
+        {
+            "name" : "Yes or No?! - Food Pranks",
+            "ico" : "https://play-lh.googleusercontent.com/XLwHnPui_jBfewef6DpexmRC3LY_b3Y2GzrdCgTka_6tnTg35JcwHOVr3hI6uw0FrSsy=s480-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.tgame.yesorno"
+        },{
+            "name" : "The Real Juggle",
+            "ico" : "https://play-lh.googleusercontent.com/lnKQs0cMeknooLjxsBqQ2zrBSeIWxGOd4SOHiSnUdS1zCuoQtxa6dlhE8RUzgiUteJjI=s480-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.SPSoftwareProductions.TheRealJuggle"
+        },{
+            "name" : "Slap Kings",
+            "ico" : "https://play-lh.googleusercontent.com/y-jGBQYt9_MwlJJnoCODI-n1rmo138BkMCZShWOQtczg53QkwYmTtyfkcSqUwadIpFFb=s480-rw",
+            "link" : "https://play.google.com/store/apps/details?id=mobi.gameguru.slapkings"
+        },{
+            "name" : "Hit Master 3D - Knife Assassin",
+            "ico" : "https://play-lh.googleusercontent.com/xcVlvz8Dq4Jcbzr4TxEfYGAcxWNS4twrPxN5a3aVYLiGGPoxfQEkDPOWR9Dy1IZrK2E=s480-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.hit.master"
+        },{
+            "name" : "Do Not Fall .io",
+            "ico" : "https://play-lh.googleusercontent.com/as4pnoi2-Mj68ceO5HABH8ZwnbSqABGzYIh1wAZQwGBheghHBcTu5wbaZKpGY8kFKEU=s480-rw",
+            "link" : "https://play.google.com/store/apps/details?id=fall.race.io"
+        },{
+            "name" : "Tall Man Run",
+            "ico" : "https://play-lh.googleusercontent.com/NO7rNNKCJa__oDge9GNePHDEq3MKauNc9AaUe3Awx3qsswE_zOVTMgDgccouH9Wg_g=w480-h960-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.VectorUpGames.TallManRun"
+        },{
+            "name" : "Yes or No?! - Food Pranks",
+            "ico" : "https://play-lh.googleusercontent.com/XLwHnPui_jBfewef6DpexmRC3LY_b3Y2GzrdCgTka_6tnTg35JcwHOVr3hI6uw0FrSsy=s480-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.tgame.yesorno"
+        },{
+            "name" : "The Real Juggle",
+            "ico" : "https://play-lh.googleusercontent.com/lnKQs0cMeknooLjxsBqQ2zrBSeIWxGOd4SOHiSnUdS1zCuoQtxa6dlhE8RUzgiUteJjI=s480-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.SPSoftwareProductions.TheRealJuggle"
+        },{
+            "name" : "Slap Kings",
+            "ico" : "https://play-lh.googleusercontent.com/y-jGBQYt9_MwlJJnoCODI-n1rmo138BkMCZShWOQtczg53QkwYmTtyfkcSqUwadIpFFb=s480-rw",
+            "link" : "https://play.google.com/store/apps/details?id=mobi.gameguru.slapkings"
+        },{
+            "name" : "Hit Master 3D - Knife Assassin",
+            "ico" : "https://play-lh.googleusercontent.com/xcVlvz8Dq4Jcbzr4TxEfYGAcxWNS4twrPxN5a3aVYLiGGPoxfQEkDPOWR9Dy1IZrK2E=s480-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.hit.master"
+        },{
+            "name" : "Do Not Fall .io",
+            "ico" : "https://play-lh.googleusercontent.com/as4pnoi2-Mj68ceO5HABH8ZwnbSqABGzYIh1wAZQwGBheghHBcTu5wbaZKpGY8kFKEU=s480-rw",
+            "link" : "https://play.google.com/store/apps/details?id=fall.race.io"
+        },{
+            "name" : "Tall Man Run",
+            "ico" : "https://play-lh.googleusercontent.com/NO7rNNKCJa__oDge9GNePHDEq3MKauNc9AaUe3Awx3qsswE_zOVTMgDgccouH9Wg_g=w480-h960-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.VectorUpGames.TallManRun"
+        },{
+            "name" : "Yes or No?! - Food Pranks",
+            "ico" : "https://play-lh.googleusercontent.com/XLwHnPui_jBfewef6DpexmRC3LY_b3Y2GzrdCgTka_6tnTg35JcwHOVr3hI6uw0FrSsy=s480-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.tgame.yesorno"
+        },{
+            "name" : "The Real Juggle",
+            "ico" : "https://play-lh.googleusercontent.com/lnKQs0cMeknooLjxsBqQ2zrBSeIWxGOd4SOHiSnUdS1zCuoQtxa6dlhE8RUzgiUteJjI=s480-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.SPSoftwareProductions.TheRealJuggle"
+        },{
+            "name" : "Slap Kings",
+            "ico" : "https://play-lh.googleusercontent.com/y-jGBQYt9_MwlJJnoCODI-n1rmo138BkMCZShWOQtczg53QkwYmTtyfkcSqUwadIpFFb=s480-rw",
+            "link" : "https://play.google.com/store/apps/details?id=mobi.gameguru.slapkings"
+        },{
+            "name" : "Hit Master 3D - Knife Assassin",
+            "ico" : "https://play-lh.googleusercontent.com/xcVlvz8Dq4Jcbzr4TxEfYGAcxWNS4twrPxN5a3aVYLiGGPoxfQEkDPOWR9Dy1IZrK2E=s480-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.hit.master"
+        },{
+            "name" : "Do Not Fall .io",
+            "ico" : "https://play-lh.googleusercontent.com/as4pnoi2-Mj68ceO5HABH8ZwnbSqABGzYIh1wAZQwGBheghHBcTu5wbaZKpGY8kFKEU=s480-rw",
+            "link" : "https://play.google.com/store/apps/details?id=fall.race.io"
+        },{
+            "name" : "Tall Man Run",
+            "ico" : "https://play-lh.googleusercontent.com/NO7rNNKCJa__oDge9GNePHDEq3MKauNc9AaUe3Awx3qsswE_zOVTMgDgccouH9Wg_g=w480-h960-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.VectorUpGames.TallManRun"
+        }
+
+    ]
+}
