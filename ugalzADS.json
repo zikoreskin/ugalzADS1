@@ -1,20 +1,20 @@
 {
     "config" : [
         {
-            "int_interval" : 3,
-            "activate_ads" : "true",
-            "activate_steps" : "true",
+            "int_interval" : 5,
+            "activate_ads" : "false",
+            "activate_steps" : "false",
             "activate_step_email" : "false",
             "one_signal" : "d017388c-1027-4900-a0a5-f5cc29ffc6d5",
-            "network" : "fan",
+            "network" : "max",
 
-            "max_ban" : "1a593bb60c856000",
-            "max_native" : "d7829ead92ff2000",
-            "max_int" : "ef057486fa457000",
+            "max_ban" : "1a593bb60c856841",
+            "max_native" : "d7829ead92ff2007",
+            "max_int" : "ef057486fa457223",
 
-            "fan_ban": "900697680953151_90000254231000",
-            "fan_native": "900697680953151_9020639200000",
-            "fan_int": "900697680953151_900697000000",
+            "fan_ban": "492254796045858_495413052396699",
+            "fan_native": "492254796045858_492257019378969",
+            "fan_int": "492254796045858_492257172712287",
 
             "main_ico": "https://seeklogo.com/images/S/stumble-guys-logo-E3E4BE536E-seeklogo.com.png",
             
