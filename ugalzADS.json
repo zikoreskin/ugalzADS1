@@ -3,7 +3,7 @@
         {
             "int_interval" : 5,
             "activate_ads" : "false",
-            "activate_steps" : "false",
+            "activate_steps" : "true",
             "activate_step_email" : "false",
             "one_signal" : "d017388c-1027-4900-a0a5-f5cc29ffc6d5",
             "network" : "max",
